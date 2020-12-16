@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admn:vNqpxtEIktgkFepG@facespace.jxlrs.mongodb.net/facespace?retryWrites=true&w=majority",
+  "jwtSecret": "Eq9935smsd32ft98!"
+}
